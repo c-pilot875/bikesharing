@@ -30,20 +30,19 @@ Tableau Public was used to create worksheets and dashboards vizualizing the data
 <img width="1225" alt="Citibike_userTrip" src="https://user-images.githubusercontent.com/115188500/217840734-bcbe1d7b-5225-470c-b98d-b9bbf4edaba8.png">
 
 ### 2. Gender Checkout Times
-[insert link to story page] Checkout times for Males appears to be higher in frequency.
 <img width="1226" alt="Citibike_genderTrip" src="https://user-images.githubusercontent.com/115188500/217841101-42e9ef21-299a-410e-b439-b639e2f19046.png">
 
 ### 3. Trips (Weekday per hour)
-[insert link to story page] Peak riding hours are 6 - 10 am and 5 - 8 pm for weekdays. Weekend peaks are 5 am to 10 pm.
+Peak riding hours are 6 - 10 am and 5 - 8 pm for weekdays. Weekend peaks are 5 am to 10 pm.
 <img width="708" alt="Citibike_TripsWeekday" src="https://user-images.githubusercontent.com/115188500/217841876-76a9d408-fce2-4576-ba0f-6048c9902d8d.png">
 
 ### 4. Trips by Gender (Weekday per Hour)
-[insert link to story page] Higher usage by Males during peak hours.
+[Peak Usage Time](https://public.tableau.com/shared/4GZW2825B?:display_count=n&:origin=viz_share_link) Higher usage by Males during peak hours.
 ![Citibike_GenderUserType](https://user-images.githubusercontent.com/115188500/217843271-de4e044f-4cba-49e0-b05a-4e2023d15c71.png)
 
 
 ### 5. Trips by Gender  and User Type (Weekday per Hour)
-[insert link to story page] Subscribers who are Male are the most frequent user types.
+[Trips by Gender and User Type](https://public.tableau.com/views/CitibikeAnalysisChallenge_16757162500830/CitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) Subscribers who are Male are the most frequent user types.
 <img width="1225" alt="Citibike_Gender_trips" src="https://user-images.githubusercontent.com/115188500/217843690-4ea0d3ae-aee6-4b0d-902a-915ff01092aa.png">
 
 ## Summary:
@@ -54,11 +53,11 @@ Tableau Public was used to create worksheets and dashboards vizualizing the data
 ### Location Analysis
 
 ### 1. Ride Start Location
-[insert story link] Start locations tend to gravitate to the inner city
+[Top Start and End Locations](https://public.tableau.com/shared/D49GQNRGT?:display_count=n&:origin=viz_share_link) Start locations tend to gravitate to the inner city
 ![Citibike_Start_location](https://user-images.githubusercontent.com/115188500/217845901-eddbe631-d13e-4d5f-8a3c-6fedee8ecfeb.png)
 
 ### 2. Ride End Location
-[insert story link] End locations tend to gravitate either on the western edge of the city mostly but there were a significant amount ending at the Eastern outer city limits.
+End locations tend to gravitate either on the western edge of the city mostly but there were a significant amount ending at the Eastern outer city limits.
 ![Citibike_End_Location](https://user-images.githubusercontent.com/115188500/217847287-a0f47d21-e942-4482-b5e3-470e34477520.png)
 
 
