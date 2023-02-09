@@ -12,7 +12,7 @@ Code ref: Pandas, Python 3.7.6, Jupyter notebook, Tableau
 The purpose of this analysis was to review Citibike data for a buinsess proposal mirroring the NYC bike sharing service in Des Moines IA. The August 2019 Citibike data was used for this analysis. Pulling data on gender, geographs, and user types to determin business feasability. 
 
 ### Link to Tableau Story:
-
+[Citibike_Story](https://public.tableau.com/shared/HWMK5R5YP?:display_count=n&:origin=viz_share_link)
 
 ## Dev 1: Convert datatypes:
 Useing Python and Pandas "tripduration" was converted to `datetime` datatype by creating "new_tripduration" column.
@@ -26,7 +26,7 @@ Reference: Citibike_Challenge.ipynb
 Tableau Public was used to create worksheets and dashboards vizualizing the data
 
 ### 1. All Users Checkout Times
-[insert link to story page] Top usage of Citibike service is around 3000 minutes per user.
+[Check Out Times by User/Gender](https://public.tableau.com/shared/H53QZCFGR?:display_count=n&:origin=viz_share_link) Top usage of Citibike service is around 3000 minutes per user.
 <img width="1225" alt="Citibike_userTrip" src="https://user-images.githubusercontent.com/115188500/217840734-bcbe1d7b-5225-470c-b98d-b9bbf4edaba8.png">
 
 ### 2. Gender Checkout Times
