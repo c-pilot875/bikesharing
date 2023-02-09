@@ -58,7 +58,7 @@ Tableau Public was used to create worksheets and dashboards vizualizing the data
 ![Citibike_Start_location](https://user-images.githubusercontent.com/115188500/217845901-eddbe631-d13e-4d5f-8a3c-6fedee8ecfeb.png)
 
 ### 2. Ride End Location
-[insert story link] End locations tend to gravitate either on the western edge of the city or inner city.
+[insert story link] End locations tend to gravitate either on the western edge of the city mostly but there were a significant amount ending at the Eastern outer city limits.
 ![Citibike_End_Location](https://user-images.githubusercontent.com/115188500/217847287-a0f47d21-e942-4482-b5e3-470e34477520.png)
 
 
